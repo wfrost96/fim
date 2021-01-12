@@ -4,3 +4,4 @@
 <p>When you've got your data, you can use analyse.py to run through some common technical analysis models, such as "three line strike reversal", and get charts showing relevant time periods. Running this will also save all BUY/SELL tips to tips.py.</p>
 <p>Finally, you can use profits.py to determine P&L after different periods of time.</p>
 <p>In the future, I'll add the code for you to set this up on a server such that you can determine your level of risk (e.g., 90% chance of making profit vs 30% chance) and have daily alerts for BUY/SELL. I'll also expand this to the FTSE 100 and other leading indicies. Ultimately, I would love to have this in an app, and AI identifying patterns and determining BUY/SELL.</p>
+<p>Personal project of wfrost96, but the code is free to any welcoming home. Please do credit this GitHub account though. Thanks.</p>
